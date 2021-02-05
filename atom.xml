@@ -3,11 +3,11 @@
   <title>家猪周刊</title>
   
   
-  <link href="http://example.com/atom.xml" rel="self"/>
+  <link href="https://homepigweekly.github.io/atom.xml" rel="self"/>
   
-  <link href="http://example.com/"/>
+  <link href="https://homepigweekly.github.io/"/>
   <updated>2021-02-05T02:12:08.176Z</updated>
-  <id>http://example.com/</id>
+  <id>https://homepigweekly.github.io/</id>
   
   <author>
     <name>《家猪周刊》编辑部</name>
@@ -18,25 +18,25 @@
   
   <entry>
     <title>联系我们</title>
-    <link href="http://example.com/2017/04/01/connect/"/>
-    <id>http://example.com/2017/04/01/connect/</id>
+    <link href="https://homepigweekly.github.io/2017/04/01/connect/"/>
+    <id>https://homepigweekly.github.io/2017/04/01/connect/</id>
     <published>2017-03-31T16:00:00.000Z</published>
     <updated>2021-02-05T02:12:08.176Z</updated>
     
-    <content type="html"><![CDATA[<h3 id="邮箱"><a href="#邮箱" class="headerlink" title="邮箱"></a>邮箱</h3><p><a href="mailto:&#x68;&#111;&#109;&#101;&#112;&#x69;&#x67;&#46;&#x6c;&#x7a;&#x68;&#64;&#x71;&#113;&#46;&#x63;&#x6f;&#109;">&#x68;&#111;&#109;&#101;&#112;&#x69;&#x67;&#46;&#x6c;&#x7a;&#x68;&#64;&#x71;&#113;&#46;&#x63;&#x6f;&#109;</a></p>]]></content>
+    <content type="html"><![CDATA[<h3 id="邮箱"><a href="#邮箱" class="headerlink" title="邮箱"></a>邮箱</h3><p><a href="mailto:&#104;&#x6f;&#x6d;&#101;&#112;&#x69;&#103;&#x2e;&#108;&#x7a;&#104;&#x40;&#113;&#x71;&#x2e;&#x63;&#111;&#x6d;">&#104;&#x6f;&#x6d;&#101;&#112;&#x69;&#103;&#x2e;&#108;&#x7a;&#104;&#x40;&#113;&#x71;&#x2e;&#x63;&#111;&#x6d;</a></p>]]></content>
     
     
       
       
-    <summary type="html">&lt;h3 id=&quot;邮箱&quot;&gt;&lt;a href=&quot;#邮箱&quot; class=&quot;headerlink&quot; title=&quot;邮箱&quot;&gt;&lt;/a&gt;邮箱&lt;/h3&gt;&lt;p&gt;&lt;a href=&quot;mailto:&amp;#x68;&amp;#111;&amp;#109;&amp;#101;&amp;#112;&amp;#x69;&amp;#x67;&amp;#46;&amp;#x6c;&amp;</summary>
+    <summary type="html">&lt;h3 id=&quot;邮箱&quot;&gt;&lt;a href=&quot;#邮箱&quot; class=&quot;headerlink&quot; title=&quot;邮箱&quot;&gt;&lt;/a&gt;邮箱&lt;/h3&gt;&lt;p&gt;&lt;a href=&quot;mailto:&amp;#104;&amp;#x6f;&amp;#x6d;&amp;#101;&amp;#112;&amp;#x69;&amp;#103;&amp;#x2e;&amp;#108;</summary>
       
     
     
     
-    <category term="信息" scheme="http://example.com/categories/%E4%BF%A1%E6%81%AF/"/>
+    <category term="信息" scheme="https://homepigweekly.github.io/categories/%E4%BF%A1%E6%81%AF/"/>
     
     
-    <category term="信息" scheme="http://example.com/tags/%E4%BF%A1%E6%81%AF/"/>
+    <category term="信息" scheme="https://homepigweekly.github.io/tags/%E4%BF%A1%E6%81%AF/"/>
     
   </entry>
   
