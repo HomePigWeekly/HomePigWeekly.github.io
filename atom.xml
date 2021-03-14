@@ -6,7 +6,7 @@
   <link href="https://homepigweekly.github.io/atom.xml" rel="self"/>
   
   <link href="https://homepigweekly.github.io/"/>
-  <updated>2021-03-11T14:29:11.966Z</updated>
+  <updated>2021-03-14T09:25:59.121Z</updated>
   <id>https://homepigweekly.github.io/</id>
   
   <author>
@@ -15,6 +15,32 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>一个与二氧化氮有关的气体问题</title>
+    <link href="https://homepigweekly.github.io/2021/03/11/lzh-20210311-01/"/>
+    <id>https://homepigweekly.github.io/2021/03/11/lzh-20210311-01/</id>
+    <published>2021-03-11T14:30:00.000Z</published>
+    <updated>2021-03-14T09:25:59.121Z</updated>
+    
+    <content type="html"><![CDATA[<p>在一定温度下向一个3L容器内充入3molNO<sub>2</sub>,平衡后压强为p<sub>0</sub>,</p><p>现在将容器体积压缩至1L,平衡后压强为p<sub>1</sub>,</p><p>求p<sub>1</sub>与p<sub>0</sub>的比值。</p><p>已知</p><center>2NO<sub>2</sub>(g)==N<sub>2</sub>O<sub>4</sub>(g)　(可逆反应)　K=1 L/mol</center><p>允许使用理想气体状态方程</p><center>pV=nRT</center>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;在一定温度下向一个3L容器内充入3molNO&lt;sub&gt;2&lt;/sub&gt;,平衡后压强为p&lt;sub&gt;0&lt;/sub&gt;,&lt;/p&gt;
+&lt;p&gt;现在将容器体积压缩至1L,平衡后压强为p&lt;sub&gt;1&lt;/sub&gt;,&lt;/p&gt;
+&lt;p&gt;求p&lt;sub&gt;1&lt;/sub&gt;与p&lt;sub&gt;0&lt;/sub&gt;的比值。&lt;</summary>
+      
+    
+    
+    
+    <category term="学术" scheme="https://homepigweekly.github.io/categories/%E5%AD%A6%E6%9C%AF/"/>
+    
+    
+    <category term="物理" scheme="https://homepigweekly.github.io/tags/%E7%89%A9%E7%90%86/"/>
+    
+  </entry>
   
   <entry>
     <title>《家猪周刊》的发展历程</title>
@@ -44,7 +70,7 @@
     <published>2017-04-01T04:00:00.000Z</published>
     <updated>2021-03-11T14:28:53.717Z</updated>
     
-    <content type="html"><![CDATA[<p>此处有部分本刊编辑部人员的联系方式</p><a id="more"></a><h2 id="QQ群"><a href="#QQ群" class="headerlink" title="QQ群"></a>QQ群</h2><p>编辑部    : 704826387</p><h2 id="邮箱"><a href="#邮箱" class="headerlink" title="邮箱"></a>邮箱</h2><p>主编        : <a href="mailto:&#x68;&#x6f;&#x6d;&#101;&#112;&#105;&#x67;&#46;&#108;&#x7a;&#x68;&#x40;&#113;&#113;&#x2e;&#x63;&#x6f;&#109;">&#x68;&#x6f;&#x6d;&#101;&#112;&#105;&#x67;&#46;&#108;&#x7a;&#x68;&#x40;&#113;&#113;&#x2e;&#x63;&#x6f;&#109;</a></p><p>投稿        : <a href="mailto:&#97;&#115;&#111;&#x2d;&#108;&#x6a;&#104;&#x40;&#113;&#113;&#x2e;&#99;&#111;&#x6d;">&#97;&#115;&#111;&#x2d;&#108;&#x6a;&#104;&#x40;&#113;&#113;&#x2e;&#99;&#111;&#x6d;</a></p>]]></content>
+    <content type="html"><![CDATA[<p>此处有部分本刊编辑部人员的联系方式</p><a id="more"></a><h2 id="QQ群"><a href="#QQ群" class="headerlink" title="QQ群"></a>QQ群</h2><p>编辑部    : 704826387</p><h2 id="邮箱"><a href="#邮箱" class="headerlink" title="邮箱"></a>邮箱</h2><p>主编        : <a href="mailto:&#104;&#x6f;&#x6d;&#x65;&#x70;&#105;&#103;&#46;&#x6c;&#x7a;&#x68;&#x40;&#113;&#x71;&#46;&#x63;&#111;&#x6d;">&#104;&#x6f;&#x6d;&#x65;&#x70;&#105;&#103;&#46;&#x6c;&#x7a;&#x68;&#x40;&#113;&#x71;&#46;&#x63;&#111;&#x6d;</a></p><p>投稿        : <a href="mailto:&#97;&#115;&#x6f;&#45;&#108;&#106;&#x68;&#64;&#x71;&#x71;&#46;&#99;&#111;&#109;">&#97;&#115;&#x6f;&#45;&#108;&#106;&#x68;&#64;&#x71;&#x71;&#46;&#99;&#111;&#109;</a></p>]]></content>
     
     
     <summary type="html">&lt;p&gt;此处有部分本刊编辑部人员的联系方式&lt;/p&gt;</summary>
