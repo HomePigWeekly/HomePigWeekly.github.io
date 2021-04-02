@@ -6,7 +6,7 @@
   <link href="https://homepigweekly.github.io/atom.xml" rel="self"/>
   
   <link href="https://homepigweekly.github.io/"/>
-  <updated>2021-03-30T14:37:38.366Z</updated>
+  <updated>2021-04-02T08:23:27.431Z</updated>
   <id>https://homepigweekly.github.io/</id>
   
   <author>
@@ -21,7 +21,7 @@
     <link href="https://homepigweekly.github.io/2021/03/11/lzh-20210311-01/"/>
     <id>https://homepigweekly.github.io/2021/03/11/lzh-20210311-01/</id>
     <published>2021-03-11T14:30:00.000Z</published>
-    <updated>2021-03-30T14:37:38.366Z</updated>
+    <updated>2021-04-02T08:23:27.431Z</updated>
     
     <content type="html"><![CDATA[<p>在一定温度下向一个3L容器内充入3molNO<sub>2</sub>,平衡后压强为p<sub>0</sub>,</p><p>现在将容器体积压缩至1L,平衡后压强为p<sub>1</sub>,</p><p>求p<sub>1</sub>与p<sub>0</sub>的比值。</p><p>已知</p><center><img src="data:image/png;base64,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" /></center><p>允许使用理想气体状态方程</p><center>pV=nRT</center>]]></content>
     
@@ -39,6 +39,8 @@
     
     
     <category term="物理" scheme="https://homepigweekly.github.io/tags/%E7%89%A9%E7%90%86/"/>
+    
+    <category term="化学" scheme="https://homepigweekly.github.io/tags/%E5%8C%96%E5%AD%A6/"/>
     
   </entry>
   
@@ -70,7 +72,7 @@
     <published>2017-04-01T04:00:00.000Z</published>
     <updated>2021-03-11T14:28:53.717Z</updated>
     
-    <content type="html"><![CDATA[<p>此处有部分本刊编辑部人员的联系方式</p><a id="more"></a><h2 id="QQ群"><a href="#QQ群" class="headerlink" title="QQ群"></a>QQ群</h2><p>编辑部    : 704826387</p><h2 id="邮箱"><a href="#邮箱" class="headerlink" title="邮箱"></a>邮箱</h2><p>主编        : <a href="mailto:&#104;&#x6f;&#109;&#101;&#x70;&#105;&#x67;&#46;&#108;&#122;&#104;&#x40;&#x71;&#x71;&#46;&#99;&#111;&#109;">&#104;&#x6f;&#109;&#101;&#x70;&#105;&#x67;&#46;&#108;&#122;&#104;&#x40;&#x71;&#x71;&#46;&#99;&#111;&#109;</a></p><p>投稿        : <a href="mailto:&#97;&#x73;&#111;&#45;&#x6c;&#106;&#x68;&#x40;&#x71;&#113;&#x2e;&#x63;&#x6f;&#109;">&#97;&#x73;&#111;&#45;&#x6c;&#106;&#x68;&#x40;&#x71;&#113;&#x2e;&#x63;&#x6f;&#109;</a></p>]]></content>
+    <content type="html"><![CDATA[<p>此处有部分本刊编辑部人员的联系方式</p><a id="more"></a><h2 id="QQ群"><a href="#QQ群" class="headerlink" title="QQ群"></a>QQ群</h2><p>编辑部    : 704826387</p><h2 id="邮箱"><a href="#邮箱" class="headerlink" title="邮箱"></a>邮箱</h2><p>主编        : <a href="mailto:&#104;&#111;&#x6d;&#x65;&#x70;&#105;&#x67;&#46;&#108;&#x7a;&#104;&#64;&#113;&#x71;&#46;&#x63;&#111;&#109;">&#104;&#111;&#x6d;&#x65;&#x70;&#105;&#x67;&#46;&#108;&#x7a;&#104;&#64;&#113;&#x71;&#46;&#x63;&#111;&#109;</a></p><p>投稿        : <a href="mailto:&#97;&#115;&#111;&#45;&#x6c;&#106;&#x68;&#x40;&#x71;&#x71;&#x2e;&#x63;&#111;&#109;">&#97;&#115;&#111;&#45;&#x6c;&#106;&#x68;&#x40;&#x71;&#x71;&#x2e;&#x63;&#111;&#109;</a></p>]]></content>
     
     
     <summary type="html">&lt;p&gt;此处有部分本刊编辑部人员的联系方式&lt;/p&gt;</summary>
